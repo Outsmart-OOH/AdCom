@@ -1,0 +1,46 @@
+{
+    "id": "",
+    "adomain": "",
+    "bundle": "",
+    "iurl": "",
+    "cat": "",
+    "cattax": "",
+    "lang": "",
+    "attr": "",
+    "secure": "",
+    "mrating": "",
+    "init": "",
+    "lastmod": "",
+    "display": {
+        "mime": "",
+        "api": "",
+        "ctype": "",
+        "w": "",
+        "h": "",
+        "wratio": "",
+        "hratio": "",
+        "priv": "",
+        "adm": "",
+        "curl": "",
+        "banner": "",
+        "native": "",
+        "event": "",
+        "ext": {
+            "ooh": {
+                "classicspecs": []
+            }
+        }
+    },
+    "video": {
+        "mime": "",
+        "api": "",
+        "ctype": "",
+        "dur": "",
+        "adm": "",
+        "curl": "",
+        "ext": ""
+    },
+    "audio": "",
+    "audit": "",
+    "ext": ""
+}

@@ -1,16 +1,13 @@
 {
-    "id": "",
-    "adomain": "",
-    "bundle": "",
-    "iurl": "",
-    "cat": "",
-    "cattax": "",
-    "lang": "",
-    "attr": "",
+    "tagid": "",
+    "ssai": "",
+    "sdk": "",
+    "sdkver": "",
+    "reward": "",
+    "wlang": "",
     "secure": "",
-    "mrating": "",
-    "init": "",
-    "lastmod": "",
+    "admx": "",
+    "curlx": "",
     "display": {
         "mime": "",
         "api": "",
@@ -25,8 +22,11 @@
         "banner": "",
         "native": "",
         "event": "",
-        "ext": "",
-        "ext.ooh": ""
+        "ext": {
+            "ooh": {
+                "classicspecs": []
+            }
+        }
     },
     "video": {
         "mime": "",
@@ -38,6 +38,5 @@
         "ext": ""
     },
     "audio": "",
-    "audit": "",
     "ext": ""
 }
