@@ -1,44 +1,25 @@
 {
-    "id": "",
-    "adomain": "",
+    "id": "c1",
+    "adomain": "advertiser.com",
     "bundle": "",
-    "iurl": "",
+    "iurl": "http://cdn.dsp.com/iurls/lovelyvid.mp4",
     "cat": "",
     "cattax": "",
     "lang": "",
     "attr": "",
-    "secure": "",
+    "secure": 1,
     "mrating": "",
-    "init": "",
-    "lastmod": "",
-    "display": {
-        "mime": "",
-        "api": "",
-        "ctype": "",
-        "w": "",
-        "h": "",
-        "wratio": "",
-        "hratio": "",
-        "priv": "",
-        "adm": "",
-        "curl": "",
-        "banner": "",
-        "native": "",
-        "event": "",
-        "ext": {
-            "ooh": {
-                "classicspecs": []
-            }
-        }
-    },
+    "init": 1639059161,
+    "lastmod": 1639059161,
     "video": {
-        "mime": "",
-        "api": "",
-        "ctype": "",
-        "dur": "",
-        "adm": "",
-        "curl": "",
-        "ext": ""
+        "mimes": [
+            "video/mp4"
+        ],
+        "minduration": 15,
+        "maxduration": 15,
+        "protocols": [],
+        "w": 1080,
+        "h": 1920
     },
     "audio": "",
     "audit": "",

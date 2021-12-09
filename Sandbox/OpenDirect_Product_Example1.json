@@ -54,11 +54,59 @@
     ],
     "AdPlacements": [
         {
-
+            "tagid": "p1",
+            "ssai": "",
+            "sdk": "",
+            "sdkver": "",
+            "reward": "",
+            "wlang": "",
+            "secure": "",
+            "admx": "",
+            "curlx": "",
+            "display": {
+                "mime": "image/jpeg",
+                "api": "",
+                "ctype": "",
+                "w": 1080,
+                "h": 1920,
+                "wratio": 9,
+                "hratio": 16,
+                "priv": "",
+                "adm": "",
+                "curl": "",
+                "banner": "",
+                "native": "",
+                "event": "",
+                "ext": {
+                    "ooh": {
+                        "printspecs": {
+                            "dpi": "",
+                            "wmm": 0,
+                            "hmm": 0,
+                            "wsafeareamm": 0,
+                            "hsafeareamm": 0
+                        }
+                    }
+                }
+            },
+            "video": {
+                "mimes": [
+                    "video/mp4",
+                    "video/mpeg"
+                ],
+                "minduration": 15,
+                "maxduration": 30,
+                "protocols": [],
+                "w": 1080,
+                "h": 1920,
+                "boxingallowed": 1,
+                "playbackmethod": [
+                    1
+                ]
+            },
+            "audio": "",
+            "ext": ""
         },
-        {
-
-        }
-
+        {}
     ]
 }

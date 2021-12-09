@@ -1,12 +1,22 @@
 {
-    "id": "",
-    "creativeid": "",
-    "placementid": "",
-    "status": "",
+    "id": "oda1",
+    "creativeid": "c1",
+    "placementid": "odp1",
+    "status": "Active",
     "weight": "",
     "ext": {
         "dooh": {
-            "Targeting": []
+            "Targeting": [
+                {
+                    "Name": "Inventory",
+                    "Type": "Frames",
+                    "DataSource": "Space",
+                    "Target": "frame_type",
+                    "TargetValues": [
+                        "digital moving"
+                    ]
+                }
+            ]
         }
     }
 }
