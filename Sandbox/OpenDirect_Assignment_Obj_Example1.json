@@ -15,6 +15,15 @@
                     "TargetValues": [
                         "digital moving"
                     ]
+                },
+                {
+                    "Name": "Inventory",
+                    "Type": "Frames",
+                    "DataSource": "Space",
+                    "Target": "frameid",
+                    "TargetValues": [
+                        "123456789"
+                    ]
                 }
             ]
         }

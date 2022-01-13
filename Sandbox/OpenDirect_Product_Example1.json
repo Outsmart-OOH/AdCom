@@ -52,61 +52,77 @@
             "Target": "Weeks"
         }
     ],
-    "AdPlacements": [
+    "adunit": [
         {
-            "tagid": "p1",
-            "ssai": "",
-            "sdk": "",
-            "sdkver": "",
-            "reward": "",
-            "wlang": "",
-            "secure": "",
-            "admx": "",
-            "curlx": "",
-            "display": {
-                "mime": "image/jpeg",
-                "api": "",
-                "ctype": "",
-                "w": 1080,
-                "h": 1920,
-                "wratio": 9,
-                "hratio": 16,
-                "priv": "",
-                "adm": "",
-                "curl": "",
-                "banner": "",
-                "native": "",
-                "event": "",
-                "ext": {
-                    "ooh": {
-                        "printspecs": {
-                            "dpi": "",
-                            "wmm": 0,
-                            "hmm": 0,
-                            "wsafeareamm": 0,
-                            "hsafeareamm": 0
+            "id": "6p1",
+            "name": "Paper 6 Sheet Printed",
+            "spec": {
+                "tagid": "p1",
+                "ssai": "",
+                "sdk": "",
+                "sdkver": "",
+                "reward": "",
+                "wlang": "",
+                "secure": "",
+                "admx": "",
+                "curlx": "",
+                "display": {
+                    "mime": "image/jpeg",
+                    "api": "",
+                    "ctype": "",
+                    "w": 1080,
+                    "h": 1920,
+                    "wratio": 9,
+                    "hratio": 16,
+                    "priv": "",
+                    "adm": "",
+                    "curl": "",
+                    "banner": "",
+                    "native": "",
+                    "event": "",
+                    "ext": {
+                        "ooh": {
+                            "printspecs": {
+                                "dpi": "",
+                                "wmm": 0,
+                                "hmm": 0,
+                                "wsafeareamm": 0,
+                                "hsafeareamm": 0
+                            }
                         }
                     }
                 }
-            },
-            "video": {
-                "mimes": [
-                    "video/mp4",
-                    "video/mpeg"
-                ],
-                "minduration": 15,
-                "maxduration": 30,
-                "protocols": [],
-                "w": 1080,
-                "h": 1920,
-                "boxingallowed": 1,
-                "playbackmethod": [
-                    1
-                ]
-            },
-            "audio": "",
-            "ext": ""
+            }
         },
-        {}
+        {
+            "id": "6d1",
+            "name": "Digital 6 Sheet",
+            "spec": {
+                "tagid": "p1",
+                "ssai": "",
+                "sdk": "",
+                "sdkver": "",
+                "reward": "",
+                "wlang": "",
+                "secure": "",
+                "admx": "",
+                "curlx": "",
+                "video": {
+                    "mimes": [
+                        "video/mp4",
+                        "video/mpeg"
+                    ],
+                    "minduration": 15,
+                    "maxduration": 30,
+                    "protocols": [],
+                    "w": 1080,
+                    "h": 1920,
+                    "boxingallowed": 1,
+                    "playbackmethod": [
+                        1
+                    ]
+                }
+            }
+        }
     ]
 }
