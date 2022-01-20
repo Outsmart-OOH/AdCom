@@ -1,7 +1,23 @@
 {
     "id": "odp1",
     "lineid": "booking_x_line_y",
-    "adunitid": "",
-    "spec": "p1",
-    "ext": ""
+    "adunitid": {},
+    "spec": {
+        "tagid": "videothis",
+        "video": {
+            "mimes": [
+                "video/mp4",
+                "video/mpeg"
+            ],
+            "minduration": 15,
+            "maxduration": 30,
+            "protocols": [],
+            "w": 1080,
+            "h": 1920,
+            "boxingallowed": 1,
+            "playbackmethod": [
+                1
+            ]
+        }
+    }
 }
